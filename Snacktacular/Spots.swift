@@ -2,8 +2,8 @@
 //  Spots.swift
 //  Snacktacular
 //
-//  Created by Alice Liang on 3/31/19.
-//  Copyright © 2019 Alice Liang. All rights reserved.
+//  Created by Sarah Minji Kim on 3/31/19.
+//  Copyright © 2019 Sarah Minji Kim. All rights reserved.
 //
 
 import Foundation
