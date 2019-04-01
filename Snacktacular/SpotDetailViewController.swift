@@ -2,8 +2,8 @@
 //  SpotDetailViewController.swift
 //  Snacktacular
 //
-//  Created by Sarah Minji Kim on 3/23/18.
-//  Copyright © 2019 Sarah Minji Kim. All rights reserved.
+//  Created by Jason Tee  on 3/23/18.
+//  Copyright © 2019 Jason Tee . All rights reserved.
 //
 
 import UIKit

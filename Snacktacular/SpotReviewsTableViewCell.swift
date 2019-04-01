@@ -2,8 +2,8 @@
 //  SpotReviewsTableViewCell.swift
 //  Snacktacular
 //
-//  Created by Sarah Minji Kim on 3/23/18.
-//  Copyright © 2018 Sarah Minji Kim. All rights reserved.
+//  Created by Jason Tee  on 3/23/18.
+//  Copyright © 2018 Jason Tee . All rights reserved.
 //
 
 import UIKit
